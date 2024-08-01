@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif"/>
+<!-- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&psig=AOvVaw2uSUMtNb91lE5SDygZTtZ6&ust=1722609146112000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKDql6uB1IcDFQAAAAAdAAAAABAE"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshapatel8303&label=Profile%20views&color=0e75b6&style=flat" alt="akankshapatel8303" /> </p>
 
@@ -50,8 +50,9 @@
 </p>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akankshapatel8303" alt="akankshapatel8303" /></a> </p>
 
-<!---
-akankshapatel8303/akankshapatel8303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
